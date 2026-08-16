@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Claudia, or @diarodgz
-- I’m interested in creating software, astronomy, atmospheric sciences, climatology, meterology, and drawing sometimes
+- I’m interested in creating software, astronomy, atmospheric sciences, geospatial data science, and drawing sometimes
 - I majored in astrophysics with a minor in software engineering
 - **How to reach me:** through email, dia.rodgz@gmail.com
 - Pronouns: She/Her
