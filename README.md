@@ -3,7 +3,6 @@
 - I majored in astrophysics with a minor in software engineering
 - **How to reach me:** through email, dia.rodgz@gmail.com
 - Pronouns: She/Her
-- I'm based in Santiago, Chile
 
 I'm looking to be a part of software projects that will contribute to science!
 
